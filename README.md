@@ -2,7 +2,7 @@
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=codewritingcow)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewritingcow&layout=compact&hide=makefile&bg_color=091f40&text_color=f6f6f6&title_color=c5203e&icon_color=c5203e" alt="Most used languages" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewritingcow)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ... Angular front-end applications
 - 🌱 I’m currently learning ... AWS, Docker and NestJS
