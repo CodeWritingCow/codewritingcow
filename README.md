@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Gary
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=codewritingcow)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewritingcow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **About me**
+
+{
+  "job": "Software Engineer",
+  "skills": ["JavaScript", "Angular", "React", "TypeScript", "NodeJS", "Express", "MongoDB", "MySQL", "PostgreSQL", "Docker", "AWS"]
+}
 
 - 🔭 I’m currently working on ... Angular front-end applications
 - 🌱 I’m currently learning ... AWS, Docker and NestJS
