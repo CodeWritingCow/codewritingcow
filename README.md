@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewritingcow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+**About me**
+
 - 🔭 I’m currently working on ... Angular front-end applications
 - 🌱 I’m currently learning ... AWS, Docker and NestJS
 - 💬 Ask me about ... How I switched career from being a newspaper reporter to a software engineer
