@@ -6,10 +6,14 @@
 
 **About me**
 
+```json
 {
   "job": "Software Engineer",
-  "skills": ["JavaScript", "Angular", "React", "TypeScript", "NodeJS", "Express", "MongoDB", "MySQL", "PostgreSQL", "Docker", "AWS"]
+  "skills": [
+    "JavaScript", "Angular", "React", "TypeScript", "NodeJS", "Express", "MongoDB", "MySQL", "PostgreSQL", "Docker", "AWS"
+  ]
 }
+```
 
 - 🔭 I’m currently working on ... Angular front-end applications
 - 🌱 I’m currently learning ... AWS, Docker and NestJS
