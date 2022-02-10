@@ -4,17 +4,27 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewritingcow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-**About me**
-
 ```json
 {
   "job": "Software Engineer",
   "skills": [
-    "JavaScript", "Angular", "React", "TypeScript", "NodeJS", "Express", "MongoDB", "MySQL", "PostgreSQL", "Docker", "AWS"
+    "JavaScript",
+    "Angular",
+    "React",
+    "TypeScript",
+    "NodeJS",
+    "Express",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Docker",
+    "AWS"
   ],
   "emoji": "🐮"
 }
 ```
+
+**About me**
 
 - 🔭 I’m currently working on ... Angular front-end applications
 - 🌱 I’m currently learning ... AWS, Docker and NestJS
