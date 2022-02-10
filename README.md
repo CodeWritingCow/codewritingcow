@@ -11,7 +11,8 @@
   "job": "Software Engineer",
   "skills": [
     "JavaScript", "Angular", "React", "TypeScript", "NodeJS", "Express", "MongoDB", "MySQL", "PostgreSQL", "Docker", "AWS"
-  ]
+  ],
+  "emoji": "🐮"
 }
 ```
 
