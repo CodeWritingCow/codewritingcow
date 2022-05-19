@@ -26,7 +26,7 @@
 
 **About me**
 
-- 🔭 I’m currently working on ... Angular front-end applications
+- 🔭 I’m currently working on ... front-end applications!
 - 🌱 I’m currently learning ... AWS, Docker and NestJS
 - 💬 Ask me about ... How I switched career from being a newspaper reporter to a software engineer
 - 📫 How to reach me: gary.pang@gmail.com
