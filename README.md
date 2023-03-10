@@ -27,10 +27,9 @@
 **About me**
 
 - 🔭 I’m currently working on ... front-end applications!
-- 🌱 I’m currently learning ... AWS, Docker and NestJS
+- 🌱 I’m currently learning ... Running my own VPN in a virtual container with Proxmox
 - 💬 Ask me about ... How I switched career from being a newspaper reporter to a software engineer
 - 📫 How to reach me: gary.pang@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a sandan in Kendo (Japanese fencing); and ikkyu in the iaido school of Meishin Muso Ryu
 
 <!--
