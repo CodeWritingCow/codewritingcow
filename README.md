@@ -24,14 +24,6 @@
 }
 ```
 
-**About me**
-
-- 🔭 I’m currently working on ... front-end applications!
-- 🌱 I’m currently learning ... Go; running AI image-generating software on cloud GPUs; and running my personal VPN in a virtual container with Proxmox
-- 💬 Ask me about ... How I switched career from being a newspaper reporter to a software engineer
-- 📫 How to reach me: gary.pang@gmail.com
-- ⚡ Fun fact: I'm a sandan in Kendo (Japanese fencing)
-
 <!--
 **CodeWritingCow/codewritingcow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
